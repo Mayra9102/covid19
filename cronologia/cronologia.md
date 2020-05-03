@@ -27,8 +27,8 @@ Hacia el 26 de Marzo, fuimos a comprar material, al tiempo que David Medina, est
 
 
 
-El mismo día 26 de Marzo, se unió Israel Cruz, estudiante de Maestría. El preguntó sobre la necesidad que había de caretas de protección en base a Tereftlato de polietileno (PET) con la adición de glicol (PET-G). Ese mismo día, por la noche, Israel estaba modificando un diseño desarrollado en España por el grupo [Escudo COVID19](https://escudocovid19.org) y puesto a libre utilización bajo licencia
-tipo CC BY-NC 4.0. Con el tiempo, Israél modificó el diseño para que la banda trasera de sujeción tuviera un cierre más seguro y más cómodo. En el caso de las caretas, el corte tarda 40 minutos y salén 20 por hoja de 127mm x 249 mm. 
+El mismo día 26 de Marzo, se unió Israel Rangel, estudiante de Maestría. El preguntó sobre la necesidad que había de caretas de protección en base a Tereftlato de polietileno (PET) con la adición de glicol (PET-G). Ese mismo día, por la noche, Israel estaba modificando un diseño desarrollado en España por el grupo [Escudo COVID19](https://escudocovid19.org) y puesto a libre utilización bajo licencia
+tipo CC BY-NC 4.0. Con el tiempo, Israel modificó el diseño para que la banda trasera de sujeción tuviera un cierre más seguro y más cómodo. En el caso de las caretas, el corte tarda 40 minutos y salén 20 por hoja de 127mm x 249 mm. 
 
 
 ## Marzo 27, 2020
@@ -166,7 +166,7 @@ Regina Hernández preparó soluciones sanitizantes, en base a cluroruo benzalcon
  
 
 
-Nos anuncian que Innovet, un fabricante industrial veestá produciendo máscaras. Su precio de producción es menor que el nuestro y su capacidad de producción dos ordenes de magnitud mayor que la nuestra. Sus caretas introducian cierta deformación óptica, pero eran económicas  y potencialmente podrían estar disponibles en grandes cantidades.
+Nos anuncian que Innovet, un fabricante industrial que está produciendo máscaras. Su precio de producción es menor que el nuestro y su capacidad de producción dos órdenes de magnitud mayor que la nuestra. Sus caretas introducian cierta deformación óptica, pero eran económicas  y potencialmente podrían estar disponibles en grandes cantidades.
 
 ## Abril 4, 2020
 
@@ -252,7 +252,7 @@ A continuación detallamos la cantidad de equipo entregado, la fecha de la entre
 
 
 ## Conclusión
-La comunidad del IPN puede sentirse orgullosa del esfuerzo que este grupo de estudiantes y profesores hicieron a favor de la comunidad médica. El efecto más grande fue en Querétaro, pero hubo oportunidad de apoyar a hospitales de muchos lugares de la república. Los diseños fueron colocados en Siento que nuestra aportación fue ayudar a encender la chispa para que otro makers, universidades, y eventualmente empresarios se dieran cuenta de la necesidad que había de apoyar. Entramos cuando las cosas no se podían comprar porque no existian. Salimos cuando había mostrada capacidad industrial para satisfacer la necesidad con un menor gasto. 
+La comunidad del IPN puede sentirse orgullosa del esfuerzo que este grupo de estudiantes y profesores hicieron a favor de la comunidad médica. El efecto más grande fue en Querétaro, pero hubo oportunidad de apoyar a hospitales de muchos lugares de la república. Los diseños fueron colocados en Siento que nuestra aportación fue ayudar a encender la chispa para que otro makers, universidades, y eventualmente empresarios se dieran cuenta de la necesidad que había de apoyar. Entramos cuando las cosas no se podían comprar porque no existían. Salimos cuando había mostrada capacidad industrial para satisfacer la necesidad con un menor gasto. 
 
 !["18"](IMG_20200330_173348315_HDR.jpg)
 *Fig. 18': Armado de Cajas*
@@ -268,7 +268,7 @@ Este trabajo ha sido fruto del esfuerzo colaborativo de muchas personas voluntar
 Daniela Basurto<br/>
 Omar Montoya<br/>
 Mayra Candido<br/>
-Israel Cruz <br/>
+Israel Rangel <br/>
 Othón González<br/>
 Regina Hernández<br/>
 David Medina<br/>
